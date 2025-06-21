@@ -7,7 +7,7 @@ api_hash = '253488c98e49fc4b4d191d8955f52891'
 phone = '+251911903010'
 
 channels = [
-    'https://t.me/ShagerOnlineStore',
+    'https://t.me/@ethio_brand_collection',
     'https://t.me/Leyueqa',
     'https://t.me/marakibrand',
     'https://t.me/qnashcom',

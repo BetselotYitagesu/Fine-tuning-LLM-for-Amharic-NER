@@ -2,9 +2,9 @@ from telethon.sync import TelegramClient
 import os
 import pandas as pd
 
-api_id = 24761492
-api_hash = '253488c98e49fc4b4d191d8955f52891'
-phone = '+251911903010'
+api_id = 11111111
+api_hash = '*****************'
+# phone = 'xxxxxxxxx'
 
 channels = [
     'https://t.me/@ethio_brand_collection',
